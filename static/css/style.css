@@ -13,12 +13,6 @@ body {
   color: #CAD2C5;
 }
 
-footer {
-    position: static;
-    height: 100%;
-    bottom: 0;
-}
-
 .content {
   margin-bottom: 2rem;
 }
