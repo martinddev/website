@@ -53,6 +53,9 @@ color: #ca5f53;
   padding: 0;
 }
 
+
+/* MEDIA QUERIES */
+
 @media screen and (max-width: 48rem) {
   .site-nav,
   .main-menu {
@@ -64,6 +67,18 @@ color: #ca5f53;
     padding-left: 0;
   }
 }
+
+@media screen and (min-width: 1450px) {
+  body {
+    font-size: 300%;
+    margin-right: 50vw;
+  }
+
+  .content {
+      width: 45vw;
+  }
+}
+
 
 /* LISTS */
 
